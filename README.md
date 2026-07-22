@@ -12,3 +12,10 @@ Somewhat customizable OOP build system.
 * Segment/line-based tool (For walls or fences)
 * Multi place (shift + left click)
 * Mobile support (i think)
+
+## Planned ##
+* Create-a-design tool (change material and color)
+* Datastore saving/loading
+* Shape building
+* Wall based objects (like paintings/shelves)
+* Objects with special properties (i.e tables with snapping chairs)
