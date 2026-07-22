@@ -1,4 +1,5 @@
 --!strict
+-- == ignore == --
 local _Types = {}
 export type Action = {action:string, instance:Instance}
 export type BuildServer = typeof(setmetatable({} :: {PlayerHistory:{[Player]:{stack:{Action}, pointer:number}}}, BuildServer))
