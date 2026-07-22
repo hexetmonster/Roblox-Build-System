@@ -3,7 +3,7 @@ Somewhat customizable OOP build system.
 
 ## Features ##
 * Modularity and flexibility
-* Optimization!!!!
+* Optimization!!!! (should be)
 * Collision checking
 * Rotation, scaling, and sledgehammer/deletion
 * Undo and redo
