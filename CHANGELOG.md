@@ -3,3 +3,4 @@
 * Fixed critical issues #1 and #2.
 * Unified the grid system with the segment builder.
 * Removed tweening entirely due to conflicts with the code.
+* Further optimized/cleaned up the code.
