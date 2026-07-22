@@ -1,4 +1,4 @@
-# Roblox-Build-System (v2)
+# Roblox-Build-System
 Somewhat customizable OOP build system.
 
 ## Features ##
